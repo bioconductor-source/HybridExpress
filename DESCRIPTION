@@ -1,6 +1,6 @@
 Package: HybridExpress
 Title: Comparative analysis of RNA-seq data for hybrids and their progenitors
-Version: 0.99.0
+Version: 1.0.0
 Date: 2023-10-17
 Authors@R: 
     c(
